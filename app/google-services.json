@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1094094493668",
+    "firebase_url": "https://work-space-6577f.firebaseio.com",
+    "project_id": "work-space-6577f",
+    "storage_bucket": "work-space-6577f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094094493668:android:d5d877a33078c4b0",
+        "android_client_info": {
+          "package_name": "com.talha.workspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094094493668-7r9poeu5klg9mkphnvunc0kk7bh5833p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talha.workspace",
+            "certificate_hash": "d3f690294a2aae4088e39da2d93fe7350190bf1d"
+          }
+        },
+        {
+          "client_id": "1094094493668-bcshmstt9j5mkgnle0lp6pj33ei5rs35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talha.workspace",
+            "certificate_hash": "246f619156a296a3a3e30e6f2a3dc2cbf94d4b2f"
+          }
+        },
+        {
+          "client_id": "1094094493668-jc2hlt5m2ptaf4tg1sbdj66i56hb6and.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1094094493668-jc2hlt5m2ptaf4tg1sbdj66i56hb6and.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeKtW-xyVjje5V9VOZfp5nR3O4deN9Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094094493668-jc2hlt5m2ptaf4tg1sbdj66i56hb6and.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
